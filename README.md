@@ -21,6 +21,9 @@
 [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof)
 - [sorce code](./2021-03-09/offer24/reverseList.go)
 
+[25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)
+- [sorce code](./2021-03-09/code25/reverseKGroup.go)
+
 ## 其他
 
 [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7)
