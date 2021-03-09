@@ -18,6 +18,9 @@
 [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle)
 - [source code](./2021-03-08/code141/hasCycle.go)
 
+[剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof)
+- [sorce code](./2021-03-09/offer24/reverseList.go)
+
 ## 其他
 
 [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7)
