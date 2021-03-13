@@ -35,6 +35,8 @@ func decodeString1(s string) string {
 
 // 方法二：递归
 // 解题思想：和栈思想一致，遇到[ 往下递归，遇到 ] 则返回结果
+// Time: O(n)
+// Space: O(n)
 func decodeString(s string) string {
 	target, _ := getString(s, 0)
 	return target
