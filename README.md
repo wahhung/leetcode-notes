@@ -73,16 +73,14 @@
 [443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)
 - [sorce code](./2021-03-11/code443/compress.go)
 
+[394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
+- [source code](./2021-03-13/code394/decodeString.go)
+
 [189. 旋转数组](https://leetcode-cn.com/problems/rotate-array/)
 - [sorce code](./2021-03-11/code189/rotate.go)
 
 [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
 - [source code](./2021-03-18/code215/findKthLargest.go)
-
-## 字符串
-
-[394. 字符串解码](https://leetcode-cn.com/problems/decode-string/)
-- [source code](./2021-03-13/code394/decodeString.go)
 
 ## 其他
 
