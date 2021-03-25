@@ -12,7 +12,7 @@ type ListNode struct {
 //		通过迭代方式，不断取 min(l1.Val, l2.Val) 的结点连接到 prev 后面，
 //		直到某一个链表全部取完，另一个链表则将余下部分连接到 prev 后面
 // Time: O(m+n) m、n分别为l1、l2的长度
-// Space: O(m+1) 递归的栈空间
+// Space: O(1) 
 func mergeTwoLists1(l1 *ListNode, l2 *ListNode) *ListNode {
 	root := &ListNode{Val: -1}
 	prev := root
@@ -37,7 +37,7 @@ func mergeTwoLists1(l1 *ListNode, l2 *ListNode) *ListNode {
 //		如果 l1 或 l2 为空，证明递归结束
 //		比较 l1 和 l2 谁的 Val更小，然后将递归添加到该结点的 Next
 // Time: O(m+n) m、n分别为l1、l2的长度
-// Space: O(m+1) 递归的栈空间
+// Space: O(m+n) 递归的栈空间
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 	if l1 == nil {
 		return l2
