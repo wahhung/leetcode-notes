@@ -6,7 +6,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
-// 方法1：递归
+// 方法1：遍历
 // Time: O(n)
 // Space: O(1)
 func reverseList1(head *ListNode) *ListNode {
