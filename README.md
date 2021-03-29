@@ -51,6 +51,9 @@
 [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/)
 - [source code](./2021-03-14/code143/reorderList.go)
 
+[23.合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+- [source code](./2021-03-29/code23/mergeKLists.go)
+
 ## 树
 
 [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
