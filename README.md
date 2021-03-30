@@ -22,8 +22,13 @@
 [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 - [source code](./2021-03-06/code516/longestPalindromeSubseq.go)
 
+##### 贪心
+
 [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [source code](./2021-03-14/code122/maxProfit.go)
+
+[402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/)
+- [source code](./2021-03-30/code402/removeKdigits.go)
 
 ## 链表
 
