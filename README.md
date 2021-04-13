@@ -76,6 +76,9 @@
 [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 - [source code](./2021-03-07/code236/lowestCommonAncestor.go)
 
+[112.路径总和](https://leetcode-cn.com/problems/path-sum/)
+- [source code](./2021-04-14/code112/hasPathSum.go)
+
 ## 数组
 
 [443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)
