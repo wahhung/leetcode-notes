@@ -16,8 +16,11 @@ func main() {
 // 最大堆：根节点的键值是所有堆结点键值中最大值，且每个结点的值都比其孩子的值大
 // 最小堆：根结点的键值是所有堆结点键值中最小值，且每个结点的值都比其孩子的值小
 // 解题思路：利用堆排序，进排序后面的 n-k个，即剩下的为k最大堆
+// 	1:调整为最大堆，nums[i] > max(nums[2*i+1], nums[2*i+2])
+// 	2:对(k, n) 的数组进行堆排序
+// 	3:剩余部分再调整为最大堆，nums[0]即为第k个最大数
 // Time:O(nlogn)
-// Space:O(logn)
+// Space:O(logn) 栈
 func findKthLargest(nums []int, k int) int {
     // 父子结点的关系，只需要遍历一半即可,i~len(nums)
 	for i := len(nums)/2 - 1; i >= 0; i-- {
