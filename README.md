@@ -99,6 +99,10 @@
 [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
 - [source code](./2021-04-14/code232/MyQueue.go)
 
+[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/implement-queue-using-stacks/)
+- [source code](.//2021-04-01/code33/search.go)
+
+
 ## 其他
 
 [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7)
