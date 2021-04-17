@@ -21,6 +21,9 @@
 
 [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 - [source code](./2021-03-06/code516/longestPalindromeSubseq.go)
+ 
+[剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)
+- [source code](./2021-04-18/offer48/lengthOfLongestSubstring.go)
 
 ##### 贪心
 
