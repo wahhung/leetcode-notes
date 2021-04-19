@@ -109,7 +109,14 @@
 - [source code](./2021-04-17/code169/majorityElement.go)
 
 [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
-- [source code](.//2021-04-18/code88/merge.go)
+- [source code](./2021-04-18/code88/merge.go)
+
+[剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)
+- [source code](./2021-04-20/offer11/minArray.go)
+
+[445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
+- [source code](./2021-04-20/code445/addTwoNumbers.go)
+
 
 
 ## 其他
