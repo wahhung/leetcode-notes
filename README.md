@@ -123,3 +123,6 @@
 
 [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7)
 - [source code](./2021-03-05/code470/rand10.go)
+
+[48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)
+- [source code](./2021-04-21/code48/rotate.go)
